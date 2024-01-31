@@ -1,11 +1,11 @@
 package com.example.appavengers;
 
-public class Circle extends Shape{
+public class Triangle extends Shape{
 
     private Integer x;
     private Integer y;
 
-    public Circle(Integer x, Integer y) {
+    public Triangle(Integer x, Integer y) {
         this.x = x;
         this.y = y;
     }
